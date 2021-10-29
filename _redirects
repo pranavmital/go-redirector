@@ -1,0 +1,5 @@
+# if LHS: redirect to RHS
+/ta111             https://pranavmital.notion.site/TA111-Fundamentals-of-Computer-Programming-86c7c61057854ced9bbbe6b474e0d581
+/blog/my-post.php  /blog/my-post
+/news              /blog
+/cuties            https://www.petsofnetlify.com
